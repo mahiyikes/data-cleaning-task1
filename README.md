@@ -1,5 +1,3 @@
-# create README.md from a heredoc (paste the content between EOF)
-cat <<'EOF' > README.md
 # 📊 Data Cleaning & Preprocessing – Task 1
 
 ## 🎯 Objective
